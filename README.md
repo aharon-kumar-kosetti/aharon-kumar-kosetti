@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aharon-kumar-kosetti&label=Profile%20views&color=0e75b6&style=flat" alt="aharon-kumar-kosetti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aharon-kumar-kosetti" alt="aharon-kumar-kosetti" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aharon-kumar-kosetti&theme=darkhub" alt="aharon-kumar-kosetti" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structures and Algorithms and Frontend Web Development.**
 
