@@ -157,15 +157,21 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aharon-kumar-kosetti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aharon-kumar-kosetti&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&ring_color=6366F1" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharon-kumar-kosetti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=94A3B8" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aharon-kumar-kosetti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=94A3B8" height="165"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aharon-kumar-kosetti&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" width="500"/>
+<img src="https://streak-stats.demolab.com?user=aharon-kumar-kosetti&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8&sideNums=F8FAFC&currStreakNum=F8FAFC" width="500"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aharon-kumar-kosetti&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" width="700"/>
 
 </div>
 
