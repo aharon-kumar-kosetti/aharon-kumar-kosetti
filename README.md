@@ -31,7 +31,7 @@
 | 🌱 | Levelling up in PostgreSQL · REST APIs · Auth · System Design |
 | ⚡ | I turn ideas into working products — even if ugly at first |
 | 🤝 | Open to internships, collaborations and honest code reviews |
-| 📍 | Andhra Pradesh, India |
+| 📍 | AP, India |
 | 📬 | kaharonkumar@gmail.com |
 
 ---
