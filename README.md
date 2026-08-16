@@ -26,7 +26,7 @@
 
 | | |
 |---|---|
-| 🎓 | 1st Year Computer Science Student |
+| 🎓 | 2nd Year Computer Science Student |
 | 🚀 | Currently building full-stack web apps with React + Node.js |
 | 🌱 | Levelling up in PostgreSQL · REST APIs · Auth · System Design |
 | ⚡ | I turn ideas into working products — even if ugly at first |
